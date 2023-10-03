@@ -1,5 +1,5 @@
 ### Olá 👋
-Meu nome é Gabryel, sou estudante do curso de Ciência da Computação na Universidade Fderal de Alagoas e entusiasta da programação. Atualmente, estou me dedicando à Ciência de Dados, mas testar uma coisa ali e outra aqui não faz mal, não é?
+Meu nome é Gabryel, sou estudante do curso de Ciência da Computação na Universidade Federal de Alagoas e entusiasta da programação. Atualmente, estou me dedicando à Ciência de Dados, mas testar uma coisa ali e outra aqui não faz mal, não é?
 
 ---
 Como me contatar 👇
