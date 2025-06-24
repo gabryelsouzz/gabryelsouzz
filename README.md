@@ -10,4 +10,4 @@ Meu nome é Gabryel, sou estudante do curso de Ciência da Computação na Unive
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byelde&hide_progress=true&theme=holi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabryelsouzz&hide_progress=true&theme=holi)
